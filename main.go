@@ -1,4 +1,4 @@
-package brainfuck
+package main
 
 // #include "bfstdin.h"
 import "C"
