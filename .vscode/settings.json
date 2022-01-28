@@ -1,0 +1,9 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "termios.h": "c",
+        "stdlib.h": "c",
+        "stdio.h": "c",
+        "ostream": "c"
+    }
+}
